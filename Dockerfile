@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM node:14-alpine
 
 
 RUN apk add build-base python3 python3-dev
